@@ -38,7 +38,7 @@
     "express": "^4.15.3",
     "helmet": "^3.8.1",
     "history": "^4.6.3",
-    "immutable": "^3.8.1",
+    "immutable": "^4.0.0",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
